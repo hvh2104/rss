@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ae47d2d89a10a297c45886b898f6e678ba4dbd76",
+          "author": null,
+          "description": "feat: fixed urgent job post\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/11\" data-original=\"recommendation/service-recommendation!11\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"39773\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"11\" data-mr-title=\"feat: fixed urgent job post\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!11</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ae47d2d89a10a297c45886b898f6e678ba4dbd76",
+          "publishedOn": "2025-03-28T09:15:55.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/urgent-threshold' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3846b7378724edc7fa5333155ee60b07c108cdfe",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3846b7378724edc7fa5333155ee60b07c108cdfe",
+          "publishedOn": "2025-03-28T08:49:48.000Z",
+          "wordCount": 1175,
+          "title": "feat: fixed urgent job post",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4428c8aad79de660880f98f695b3cd776f330783",
           "author": null,
           "description": "<div type=\"html\"/>",
@@ -22,6 +42,16 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62b10b49e821c5a4ecacdca346d7a785ed4e032b",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62b10b49e821c5a4ecacdca346d7a785ed4e032b",
+          "publishedOn": "2025-03-26T04:25:09.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'staging' into feat/ise-269",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bd260a9278e1f87cc6caa8a3493366f479490243",
           "author": null,
@@ -53,6 +83,26 @@
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/10c2103159044a4ad1a0b7a23b44837456ef2e1d",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/10c2103159044a4ad1a0b7a23b44837456ef2e1d",
+          "publishedOn": "2025-03-19T03:40:49.000Z",
+          "wordCount": 1175,
+          "title": "feat: add max number relevance urgent",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ef5d5a5828e62da15922f11377900f48596bb57a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ef5d5a5828e62da15922f11377900f48596bb57a",
+          "publishedOn": "2025-03-19T03:03:28.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'main' into feat/ise-269",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a915e876abe9d584979bcea497ea5e495a42d102",
           "author": null,
           "description": "Production\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/23\" data-original=\"search-engine/service-search-engine!23\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"39455\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"23\" data-mr-title=\"Production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!23</a>",
@@ -60,6 +110,16 @@
           "publishedOn": "2025-03-19T02:24:48.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'production' into 'main'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/78e8dbdb4327e959b5f22044d66b3ce353a1f24f",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/78e8dbdb4327e959b5f22044d66b3ce353a1f24f",
+          "publishedOn": "2025-03-18T08:44:54.000Z",
+          "wordCount": 1175,
+          "title": "feat: apply distribution for urgent job post",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
@@ -380,46 +440,6 @@
           "publishedOn": "2025-02-28T05:18:32.000Z",
           "wordCount": 1175,
           "title": "Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into apply_d...",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3f846148d642584641929edf537b9eb080b61be7",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3f846148d642584641929edf537b9eb080b61be7",
-          "publishedOn": "2025-02-28T05:17:21.000Z",
-          "wordCount": 1175,
-          "title": "fix dev INDEX_UPDATE_INTERVAL",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bf68c5cd518edb985dc1ee80770d96515dd3b3aa",
-          "author": null,
-          "description": "Feat/ise 229\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/16\" data-original=\"search-engine/service-search-engine!16\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"39103\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"16\" data-mr-title=\"Feat/ise 229\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!16</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bf68c5cd518edb985dc1ee80770d96515dd3b3aa",
-          "publishedOn": "2025-02-28T05:12:49.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-229' into 'apply_distribution/ISE-244'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3477e252614a9cd5889f6eb76c62ea60ad378baf",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3477e252614a9cd5889f6eb76c62ea60ad378baf",
-          "publishedOn": "2025-02-28T04:24:58.000Z",
-          "wordCount": 1175,
-          "title": "merge with feat/ise-245",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c295df6e31966fad2c616e8be98487b95a499cf",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c295df6e31966fad2c616e8be98487b95a499cf",
-          "publishedOn": "2025-02-28T04:14:11.000Z",
-          "wordCount": 1175,
-          "title": "resaolve main merge conflict",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
