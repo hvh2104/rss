@@ -84,16 +84,6 @@
           "wordCount": 1175,
           "title": "Update to get help host by config",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4f45c4ceef9c7126351245d961aeab802815ebad",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4f45c4ceef9c7126351245d961aeab802815ebad",
-          "publishedOn": "2026-08-07T03:46:37.000Z",
-          "wordCount": 1175,
-          "title": "Update doc for recommendation engine",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -180,16 +170,6 @@
           "publishedOn": "2026-08-10T01:48:38.000Z",
           "wordCount": 1175,
           "title": "sort similar queries by score",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2e11f5e6352f8b777fb00bf373cc5366fdfa5f16",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2e11f5e6352f8b777fb00bf373cc5366fdfa5f16",
-          "publishedOn": "2026-08-07T03:01:51.000Z",
-          "wordCount": 1175,
-          "title": "Update documentation for search engine",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
