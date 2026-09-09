@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-08T03:24:16.911Z</id>
+    <id>urn:2026-09-09T03:27:47.715Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T03:24:16.911Z</updated>
+    <updated>2026-09-09T03:27:47.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -147,40 +147,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-769' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f135476039abc048c7e3718d47342dddaeb1ef62</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f135476039abc048c7e3718d47342dddaeb1ef62"/>
-        <updated>2026-08-10T02:05:11.000Z</updated>
-        <summary type="html"><![CDATA[sort similar queries by score
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/295" data-original="search-engine/service-search-engine!295" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49075" data-project-path="search-engine/service-search-engine" data-iid="295" data-mr-title="sort similar queries by score" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!295</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-769' into 'qc']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/83ddf44057bc5454113ebfbf944217eac6e97c5a</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/83ddf44057bc5454113ebfbf944217eac6e97c5a"/>
-        <updated>2026-08-10T01:49:29.000Z</updated>
-        <summary type="html"><![CDATA[sort similar queries by score
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/294" data-original="search-engine/service-search-engine!294" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49074" data-project-path="search-engine/service-search-engine" data-iid="294" data-mr-title="sort similar queries by score" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!294</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sort similar queries by score]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9aa388c4ec611de605c1c40d3d85d9e287ca52b0</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9aa388c4ec611de605c1c40d3d85d9e287ca52b0"/>
-        <updated>2026-08-10T01:48:38.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
