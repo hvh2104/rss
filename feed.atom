@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-09T03:27:47.715Z</id>
+    <id>urn:2026-09-10T03:25:43.246Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T03:27:47.715Z</updated>
+    <updated>2026-09-10T03:25:43.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -125,28 +125,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-826' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/34be2aa4c0cfa4b7bf86da2c0dc0c8c5dde181de</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/34be2aa4c0cfa4b7bf86da2c0dc0c8c5dde181de"/>
-        <updated>2026-08-11T08:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Disable writing in search_id_mapping Searcher
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/291" data-original="search-engine/service-search-engine!291" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49032" data-project-path="search-engine/service-search-engine" data-iid="291" data-mr-title="Disable writing in search_id_mapping Searcher" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!291</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update to get help host by config]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/77720526386f4851732dd90f4ff81f732907cc1a</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/77720526386f4851732dd90f4ff81f732907cc1a"/>
-        <updated>2026-08-11T07:27:29.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
