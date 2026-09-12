@@ -91,36 +91,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-830' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6634c1470e701cbe74056d5988dc144c83cba96f",
-          "author": null,
-          "description": "feat: enable writing to search_id_mapping\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/296\" data-original=\"search-engine/service-search-engine!296\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49144\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"296\" data-mr-title=\"feat: enable writing to search_id_mapping\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!296</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6634c1470e701cbe74056d5988dc144c83cba96f",
-          "publishedOn": "2026-08-13T07:26:53.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/enable-search-id-mapping' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d27236a93ac3780582eb0f06eafd09b8b9040d2",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d27236a93ac3780582eb0f06eafd09b8b9040d2",
-          "publishedOn": "2026-08-13T04:24:43.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'qc' into feat/enable-search-id-mapping",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46fa25e679606c197a4add8e31b811582ad2eae6",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46fa25e679606c197a4add8e31b811582ad2eae6",
-          "publishedOn": "2026-08-13T04:24:05.000Z",
-          "wordCount": 1175,
-          "title": "feat: enable writing to search_id_mapping",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
